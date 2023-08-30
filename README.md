@@ -15,3 +15,9 @@ export SIMPLE_SETTINGS=settings.general
 
 python ownership.py
 
+
+**Online**
+
+export SIMPLE_SETTINGS=settings.general
+
+python online.py

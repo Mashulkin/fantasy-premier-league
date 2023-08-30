@@ -1,0 +1,16 @@
+firstName:      firstName
+webName:        webName
+lastName:       lastName
+teamName:       Team
+abbr:           Abbr
+position:       Pos
+starts:         st
+minutes:        min
+points:         points
+goals:          G
+assists:        A
+clean_sheets:   CS
+bonus:          bonus
+bps:            bps
+realPlayerId:   id
+seasonPlayerId: sId
