@@ -20,4 +20,4 @@ python ownership.py
 
 export SIMPLE_SETTINGS=settings.general
 
-python online.py
+python online.py event_id
